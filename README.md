@@ -54,7 +54,7 @@ Here are some projects I'm proud of:
 
 ## Fun Facts
 - 🌱 I love being out in nature.
-- 🇪🇸 I lived in Spain for most of my childhood and I'm fluent in Spanish.
+- 🇪🇸 I lived in Spain and I'm fluent in Spanish.
 - 🌏 I enjoy traveling and exploring new cultures.
 
 
