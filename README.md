@@ -3,11 +3,12 @@
 I'm Lola, a passionate Software Engineer from Santa Cruz, CA. Welcome to my GitHub profile! 🚀
 
 ## About Me
--   🌱 I’m constantly learning and exploring new technologies and frameworks.
--   💡 I love to collaborate on open-source projects and innovative ideas.
--   📫 How to reach me: 
-	- [lola.marrero.m@gmail.com](mailto:lola.marrero.m@gmail.com)
-	- [LinkedIn](https://www.linkedin.com/in/lola-marrero/)
+- 🌱 I’m constantly learning and exploring new technologies and frameworks.
+- 💡 I love to collaborate on open-source projects and innovative ideas.
+- 📫 How to reach me: 
+	- 📧 [lola.marrero.m@gmail.com](mailto:lola.marrero.m@gmail.com)
+	- 🔗 [LinkedIn](https://www.linkedin.com/in/lola-marrero/)
+   	- 🧚‍♀️ [Portfolio](www.lolamarrero.com)
  
 <img src="https://github.com/lola831/lola831/assets/110120745/f4165a16-3cc4-4911-80e5-3557a3917c53" height="400">
 
@@ -50,6 +51,12 @@ Here are some projects I'm proud of:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lola831&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lola831&" alt="lola831" /></p>
+
+## Fun Facts
+🌱 I love being out in nature.
+🇪🇸 I lived in Spain for most of my childhood and I'm fluent in Spanish.
+🌏 I enjoy traveling and exploring new cultures.
+
 
 ## Let's Connect
 
