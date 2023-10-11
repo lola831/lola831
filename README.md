@@ -53,9 +53,9 @@ Here are some projects I'm proud of:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lola831&" alt="lola831" /></p>
 
 ## Fun Facts
-🌱 I love being out in nature.
-🇪🇸 I lived in Spain for most of my childhood and I'm fluent in Spanish.
-🌏 I enjoy traveling and exploring new cultures.
+- 🌱 I love being out in nature.
+- 🇪🇸 I lived in Spain for most of my childhood and I'm fluent in Spanish.
+- 🌏 I enjoy traveling and exploring new cultures.
 
 
 ## Let's Connect
