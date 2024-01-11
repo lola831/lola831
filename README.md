@@ -8,7 +8,7 @@ I'm Lola, a passionate Software Engineer from Santa Cruz, CA. Welcome to my GitH
 - 📫 How to reach me: 
 	- 📧 [lola.marrero.m@gmail.com](mailto:lola.marrero.m@gmail.com)
 	- 🔗 [LinkedIn](https://www.linkedin.com/in/lola-marrero/)
-   	- 🧚‍♀️ [Portfolio](www.lolamarrero.com)
+   	- 🧚‍♀️ [Portfolio](https://www.lolamarrero.com/)
  
 <img src="https://github.com/lola831/lola831/assets/110120745/f4165a16-3cc4-4911-80e5-3557a3917c53" height="400">
 
