@@ -45,13 +45,6 @@ Here are some projects I'm proud of:
 - :apple: [Bone Apple Teeth](https://tables-that-are-open.onrender.com) - A responsive full stack web application inspired by OpenTable developed as a group project.
 - :dog: [Pawbnb](https://lola-airbnb.onrender.com) - A comprehensive full stack web application modeled after Airbnb for your pets. 
 
-## Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lola831" alt="lola831" /></a> </p>  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lola831&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lola831&" alt="lola831" /></p>
-
 ## Fun Facts
 - 🌱 I love being out in nature.
 - 🇪🇸 I lived in Spain and I'm fluent in Spanish.
